@@ -260,21 +260,11 @@ Handled system integration, debugging, FPGA implementation, Vivado ILA integrati
 
 This project was developed as a collaborative FPGA AES-128 implementation project by:
 
-- Jatin
-- Kaushal Naik
-- Dipiksha Parab
-- Vedam Panjikar
-- Jaydev Rajpurohit
-
----
-## Contributors
-
 - [Jatin](https://github.com/Conolas)
-- [Kaushal Naik](https://github.com/...)
-- [Dipiksha Parab](https://github.com/...)
-- [Vedam Panjikar](https://github.com/...)
-- [Jaydev Rajpurohit](https://github.com/...)
-
+- [Kaushal Naik](https://github.com/username)
+- [Dipiksha Parab](https://github.com/username)
+- [Vedam Panjikar](https://github.com/username)
+- [Jaydev Rajpurohit](https://github.com/username)
 ---
 
 # License
