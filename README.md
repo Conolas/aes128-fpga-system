@@ -264,7 +264,7 @@ This project was developed as a collaborative FPGA AES-128 implementation projec
 - [Kaushal Naik](https://github.com/username)
 - [Dipiksha Parab](https://github.com/username)
 - [Vedam Panjikar](https://github.com/username)
-- [Jaydev Rajpurohit](https://github.com/username)
+- [Jaydev Rajpurohit](https://github.com/jaydev-rajpurohit)
 ---
 
 # License
