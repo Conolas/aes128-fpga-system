@@ -1,4 +1,4 @@
-# AES-128 FPGA System
+# AES-128 FPGA Core
 
 ## Overview
 
